@@ -18,8 +18,8 @@
   "16": "o",
   "17": "n",
   "facebookAccount": {
-    "email": "linit361@gmail.com",
-    "password": "linit0877",
+    "email": "",
+    "password": "",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -36,18 +36,17 @@
     "hideNotiMessage": true
   },
   "adminBot": [
-    "100078690213463",
-    "100082866835315"
+    "61554707631739"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "6772177669461691"
+      ""
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "zermanto development",
-  "prefix": "/",
+  "nickNameBot": "LiPolio",
+  "prefix": "+",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
